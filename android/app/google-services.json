@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "327988665553",
+    "project_id": "tesa-8ea4b",
+    "storage_bucket": "tesa-8ea4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327988665553:android:59027e40c8bd15dbc9f9f0",
+        "android_client_info": {
+          "package_name": "com.example.pingolearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327988665553-u5leg98viqo2go5f9uuuo3bsaegkkbob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu68O1PtngCoUy9SxTyS5RFwf5PytIe28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327988665553-u5leg98viqo2go5f9uuuo3bsaegkkbob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327988665553:android:0854941e57285fbcc9f9f0",
+        "android_client_info": {
+          "package_name": "com.k_fene_8.Tesa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327988665553-u5leg98viqo2go5f9uuuo3bsaegkkbob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu68O1PtngCoUy9SxTyS5RFwf5PytIe28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327988665553-u5leg98viqo2go5f9uuuo3bsaegkkbob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
